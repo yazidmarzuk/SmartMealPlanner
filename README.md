@@ -1,7 +1,7 @@
 ![Stars](https://img.shields.io/github/stars/yazidmarzuk/spoonacular_api?style=plastic)<br>
 ![size](https://img.shields.io/github/repo-size/yazidmarzuk/spoonacular_api)<br>
 ![Status](https://img.shields.io/badge/status-Under_Contruction-red)<br>
-![Collaborators](https://img.shields.io/badge/collaborators-2-red)<br>
+![Collaborators](https://img.shields.io/badge/collaborators-5-red)<br>
 
 
 We value keeping this site open source, but as you all know, _**plagiarism is bad**_. We spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of our website, and we are proud of it! All we ask is to not claim this effort as your own. --> 
